@@ -35,6 +35,6 @@ Breathing robot based on air pollution levels (CO2 sensor). The robot struggles 
 
 Nous avons travaillé sur le dernier concept en date: Le robot qui agonit. Clara nous a montré [une oeuvre](https://www.instagram.com/tobias_bradford/reel/DAOQzbexlxh/) de Tobias Bradford d'un chien mécanique qui meurt et respire mal avec un accordéon.
 
-Pour présenter le concept l'après-midi, nous avons fait une [affiche](PDF/spicies-poster.pdf). Vincent a réussi à allumer ses LEDs. Antony a fait un petit [prototype](attachments/2026-01-09-prototype1.jpg) qui à partir d'un composant MQ-2 (capteur de fumée), fait bouger une servo-moteur ([code](code/2026-01-09_breathing-air-servo)).
+Pour présenter le concept l'après-midi, nous avons fait une [affiche](poster/spicies-poster.pdf). Vincent a réussi à allumer ses LEDs. Antony a fait un petit [prototype](attachments/2026-01-09-prototype1.jpg) qui à partir d'un composant MQ-2 (capteur de fumée), fait bouger une servo-moteur ([code](code/2026-01-09_breathing-air-servo)).
 
 Nous avons eu quelques feedback notamment sur les matériaux, peut-être imprimer 3D TPU.
