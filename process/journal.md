@@ -31,11 +31,10 @@ Breathing robot based on air pollution levels (CO2 sensor). The robot struggles 
 - Renforcer le lien écologique : Lier la pollution de l’air à un impact sur les écosystèmes marins (ex. : acidification des océans due au CO₂).
 - Jouer sur l’empathie : Rendre le robot plus “vivant” (ex. : battements de cœur, sons respiratoires) pour créer un lien émotionnel.
 
-## 2026-01-09
+## 2026-01-09 — Mid-presentation
 
-Faire petite affiche.
-Préparer présentation.
+Nous avons travaillé sur le dernier concept en date: Le robot qui agonit. Clara nous a montré [une oeuvre](https://www.instagram.com/tobias_bradford/reel/DAOQzbexlxh/) de Tobias Bradford d'un chien mécanique qui meurt et respire mal avec un accordéon.
 
-Prendre photo des robots recyclés.
-Faire un accordéon en papier
-faire tourner un moteur pour faire le mouvement accordéon.
+Pour présenter le concept l'après-midi, nous avons fait une [affiche](PDF/spicies-poster.pdf). Vincent a réussi à allumer ses LEDs. Antony a fait un petit [prototype](attachments/2026-01-09-prototype1.jpg) qui à partir d'un composant MQ-2 (capteur de fumée), fait bouger une servo-moteur ([code](code/2026-01-09_breathing-air-servo)).
+
+Nous avons eu quelques feedback notamment sur les matériaux, peut-être imprimer 3D TPU.

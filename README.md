@@ -1,5 +1,6 @@
 # Soft Robotics
 **Partners: CNRS, CEA, INRIA**
+**Professors: Clara Rigaud, Benjamin Gaulon**
 
 As our planet faces accelerating ecological crises, robotics offers new ways of perceiving, sensing, and interacting with the environment. Moving beyond efficiency and automation, this workshop explores soft, ecological, and sensitive robots. We will think of robots as sensitive machines that might decompose, recycle, breathe, or sense pollution and debris.
 
