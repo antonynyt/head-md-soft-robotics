@@ -9,12 +9,11 @@ Students will develop prototypes of soft ecological robots, from non-functional 
 
 ## What’s in this repo
 
-- [process/journal.md](journal.md) — Development journal
+- [process/journal.md](process/journal.md) — Development journal
 - [process/](process) — Project process
 - [code/](code) — Arduino code
 
-> [!NOTE] Note
-> Most of our process in written in french.
+> *Most of our process in written in french.*
 
 ## Team
 Vincent Paley & Antony Neyret

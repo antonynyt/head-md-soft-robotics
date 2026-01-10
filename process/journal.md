@@ -17,7 +17,7 @@ Démontage d'un caméscope.
 
 ## 2026-01-08
 
-On a encore exploré quelques idées différentes car nous ne sommes pas satisfaits de l'idée de faire voler ou de la méduse. Nous sommes partis sur faire un réseau hors internet, puis d'une carte des déchets qui volent dans la rue. (Voir [[2026-01-08_research]].)
+On a encore exploré quelques idées différentes car nous ne sommes pas satisfaits de l'idée de faire voler ou de la méduse. Nous sommes partis sur faire un réseau hors internet, puis d'une carte des déchets qui volent dans la rue. (Voir [2026-01-08_research](2026-01-08_research.md).)
 
 Nous avons fait quelques tests de [code](../code/2026-01-08_morse-code) communication via lumière en envoyant du morse. Peut-être que le binaire serait plus pertinent ? On a aussi tester de faire gonfler du papier ou du tissu avec un ventilateur d'un vieux beamer. Finalement, une autre idée est venue: 
 
