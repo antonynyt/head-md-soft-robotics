@@ -38,3 +38,10 @@ Nous avons travaillé sur le dernier concept en date: Le robot qui agonit. Clara
 Pour présenter le concept l'après-midi, nous avons fait une [affiche](poster/spicies-poster.pdf). Vincent a réussi à allumer ses LEDs. Antony a fait un petit [prototype](attachments/2026-01-09-prototype1.jpg) qui à partir d'un composant MQ-2 (capteur de fumée), fait bouger une servo-moteur ([code](code/2026-01-09_breathing-air-servo)).
 
 Nous avons eu quelques feedback notamment sur les matériaux, peut-être imprimer 3D TPU.
+
+## 2026-01-12
+
+On a tester plusieurs prototypes de mécanismes. Antony a réalisé un test de mécanisme en 3D sur [fusion](attachments/2026-01-12-fusion.jpg). Vincent à pu faire des tests d'impression sur le TPA. Ça devrait être assez flexible pour le faire bouger. Et [laisse bien passer la lumière](attachments/2026-01-12-proto-lights-trought.jpg). On tente une impression plus grande. Idéalement, j'aurais apprécié utiliser des matériaux recyclés. Ou le minimal d'impression 3D.
+
+Un discussion avec Pablo a permis de réfléchir à un [mécanisme](attachments/2026-01-12-sketches-mechanism.jpg) plus simple. A tester demain.
+
