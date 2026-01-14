@@ -43,5 +43,34 @@ Nous avons eu quelques feedback notamment sur les matériaux, peut-être imprime
 
 On a tester plusieurs prototypes de mécanismes. Antony a réalisé un test de mécanisme en 3D sur [fusion](attachments/2026-01-12-fusion.jpg). Vincent à pu faire des tests d'impression sur le TPA. Ça devrait être assez flexible pour le faire bouger. Et [laisse bien passer la lumière](attachments/2026-01-12-proto-lights-trought.jpg). On tente une impression plus grande. Idéalement, j'aurais apprécié utiliser des matériaux recyclés. Ou le minimal d'impression 3D.
 
-Un discussion avec Pablo a permis de réfléchir à un [mécanisme](attachments/2026-01-12-sketches-mechanism.jpg) plus simple. A tester demain.
+Un discussion avec Pablo a aidé de réfléchir à un [mécanisme](attachments/2026-01-12-sketches-mechanism.jpg) plus simple. A tester demain.
 
+## 2026-01-13
+
+La 3D TPU n'a pas bien fonctionné mais donne un aspect organique que nous allons garder. Ca rend aussi la bête plus vulnérable.
+
+![](attachments/2026-01-13-3D-print.jpg)
+
+Nous avons testé le mécanisme décrit hier. Bien-sûr c'est seulement en fin de journée qu'on a réussi à le faire fonctionner. Le soucis: Le mouvement du servo-moteur doit rester sur un axe droit donc ne pas trop tourner. Sans faire de calculs un mouvement de 70° pour un diamètre de 40mm avec le centre du trou rotation à 4mm du bord du cercle fonctionne bien. De plus, les poussoirs doivent être rattachés au servo-moteur. Des bandes de papier fonctionnent bien.
+
+![](attachments/mecanism.jpeg)
+
+Pour l'impression 3D, [slicer](attachments/2026-01-13-slicer.jpg) le cercle en vertical.
+
+**Scénario**
+
+Nous avons repensé le scénario. Soit, Il s'agit d'une métaphore. Permet de voir l'invisible. La pollution de l'air n'est pas visible, elle se ressent. Ce robot est passif. Il permet de matérialiser la pollution de l'air. Soit, il s'agit d'un scénario de film de science-fiction.
+
+*Humanity destroyed all living beings on Earth. Before its own extinction, it formed groups of scientists to create a new, self-sustaining ecosystem of robots. Driven by the will to leave a lasting mark on the planet, humans convinced themselves that nature needed their intervention even as they were the cause of its collapse. Robots continues their tasks alone. Humanity’s mark remains even though it is long gone.*
+
+## 2026-01-14
+
+Vincent added some fish-bones like inside the shell to give it more volume and also fix the 3D problem in our favor. We changed the servo to a more powerful one. We had to adapt the 3D printed [circle fixation on the servo](attachments/2026-01-14-mecanism.jpg). It was to fitting anymore. We got new toys from Andrea and a MQ-135 for air quality detection. So now we use it!
+
+The [code](../code/2026-01-14-breathing-light) is now handling the breathing and the color-shiffting from blue-green to red when CO2 or gaz is detected. range from <80 = good, >350 = bad air quality. For testing we use a lighter, butane triggers the system.
+
+![](attachments/2026-01-14-robot-breathing.gif)
+
+Tomorrow we create the scenography and done! :) It lives in urban environment, it's a dangerous place anything can hurt it. But the worse is the air pollution. We still have to find a name. something probably with the fact that is sensing air or alone.
+
+Breathing air pollution (alone).
