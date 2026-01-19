@@ -41,9 +41,12 @@ Nous avons eu quelques feedback notamment sur les matériaux, peut-être imprime
 
 ## 2026-01-12
 
-On a tester plusieurs prototypes de mécanismes. Antony a réalisé un test de mécanisme en 3D sur [fusion](attachments/2026-01-12-fusion.jpg). Vincent à pu faire des tests d'impression sur le TPA. Ça devrait être assez flexible pour le faire bouger. Et [laisse bien passer la lumière](attachments/2026-01-12-proto-lights-trought.jpg). On tente une impression plus grande. Idéalement, j'aurais apprécié utiliser des matériaux recyclés. Ou le minimal d'impression 3D.
+On a tester plusieurs prototypes de mécanismes. Antony a réalisé un test de mécanisme en 3D sur [fusion](attachments/2026-01-12-fusion.jpg). Vincent a pu faire des tests d'impression sur le TPU. Ça devrait être assez flexible pour le faire bouger. Et [laisse bien passer la lumière](attachments/2026-01-12-proto-lights-trought.jpg). On tente une impression plus grande. Idéalement, j'aurais apprécié utiliser des matériaux recyclés. Ou le minimal d'impression 3D.
 
 Un discussion avec Pablo a aidé de réfléchir à un [mécanisme](attachments/2026-01-12-sketches-mechanism.jpg) plus simple. A tester demain.
+
+| ![](attachments/2026-01-12-mecanism2.gif) | ![](attachments/2026-01-12-mecanism1.gif) |
+| ---------------------- | ---------------------- |
 
 ## 2026-01-13
 
@@ -53,8 +56,8 @@ La 3D TPU n'a pas bien fonctionné mais donne un aspect organique que nous allon
 
 Nous avons testé le mécanisme décrit hier. Bien-sûr c'est seulement en fin de journée qu'on a réussi à le faire fonctionner. Le soucis: Le mouvement du servo-moteur doit rester sur un axe droit donc ne pas trop tourner. Sans faire de calculs un mouvement de 70° pour un diamètre de 40mm avec le centre du trou rotation à 4mm du bord du cercle fonctionne bien. De plus, les poussoirs doivent être rattachés au servo-moteur. Des bandes de papier fonctionnent bien.
 
-![](attachments/mecanism.jpeg)
-
+| ![](attachments/mecanism.jpeg) | ![](attachments/2026-01-13-mecanism.gif) |
+| ------------------------------ | ---------------------- |
 Pour l'impression 3D, [slicer](attachments/2026-01-13-slicer.jpg) le cercle en vertical.
 
 **Scénario**
@@ -74,3 +77,8 @@ The [code](../code/2026-01-14-breathing-light) is now handling the breathing and
 Tomorrow we create the scenography and done! :) It lives in urban environment, it's a dangerous place anything can hurt it. But the worse is the air pollution. We still have to find a name. something probably with the fact that is sensing air or alone.
 
 Breathing air pollution (alone).
+
+## 2026-01-15
+
+Préparation de la présentation, mise en place de la scénographie. Réalisation d'une fausse en-tête de journal pour la contextualisation. Aller près des chantier pour récupérer des morceaux de béton et de barres en métal.
+

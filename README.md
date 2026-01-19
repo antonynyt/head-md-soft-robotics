@@ -1,20 +1,32 @@
-# Soft Robotics
-**Partners: CNRS, CEA, INRIA**
-**Professors: Clara Rigaud, Benjamin Gaulon**
+# Pulmo
 
-As our planet faces accelerating ecological crises, robotics offers new ways of perceiving, sensing, and interacting with the environment. Moving beyond efficiency and automation, this workshop explores soft, ecological, and sensitive robots. We will think of robots as sensitive machines that might decompose, recycle, breathe, or sense pollution and debris.
+**Pulmo** is a speculative robot inspired by sea slugs and bioluminescent marine life. It performs slow, breathing-like movements. As air pollution increases, Pulmo’s breathing becomes rapid. Its skin shifts to red as a warning signal. In clean air, its breathing is slow and its body emits a blue-green glow. Pulmo makes air pollution visible and emotionally perceptible.
 
-## Brief
+![](presskit/medias/pulmo.jpg)
 
-Students will develop prototypes of soft ecological robots, from non-functional to semi-functional mock-ups. These artefacts will combine organic motion with environmental functions such as recycling, sensing, filtering, or decomposition.
+Pulmo is part of a fictional group of robots created by the last humans before all living beings on Earth had disappeared. These robots were meant to care for the planet, based on the belief that technology could fix the damage humans had caused. Long after humans are gone, the robots continue their work alone making them useless creatures.
 
-## What’s in this repo
+## Components
+
+This project is a mix of Arduino & 3D printing. It uses one servo-motor, a CO2 sensor MQ-135 and LEDs ([see details](code)).
+
+# What’s in this repo
 
 - [process/journal.md](process/journal.md) — Development journal
 - [process/](process) — Project process
-- [code/](code) — Arduino code
+- [code/](code) — Arduino code & schematics
+- [presskit/](presskit) — Abstract and medias about the project
 
-> *Most of our process in written in french.*
+> *Most of our process is written in french.*
 
 ## Team
-Vincent Paley & Antony Neyret
+Vincent Paley [@noctoplasma](https://instagram.com/noctoplasma) & Antony Neyret [@antonynyt](https://www.instagram.com/antonynyt/)
+
+# About the workshop — Soft Robotics
+
+Project made during the Soft Robotics workshop in Master Media Design, HEAD – Genève.
+
+- **Partners: CNRS, CEA, INRIA**
+- **Professors: Clara Rigaud, Benjamin Gaulon**
+
+As our planet faces accelerating ecological crises, robotics offers new ways of perceiving, sensing, and interacting with the environment. Moving beyond efficiency and automation, this workshop explores soft, ecological, and sensitive robots.
