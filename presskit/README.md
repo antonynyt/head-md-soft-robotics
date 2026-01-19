@@ -11,4 +11,4 @@ Pulmo is part of a fictional group of robots created by the last humans before a
 [Link to medias](medias)
 
 ## Team
-Vincent Paley [@noctoplasma](https://instagram.com/noctoplasma) & Antony Neyret [@antonynyt](https://www.instagram.com/antonynyt/)
+Vincent Paley [@noctoplasma](https://instagram.com/noctoplasma) & Antony Neyret [https://antony.cool](https://antony.cool/)

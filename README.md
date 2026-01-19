@@ -20,7 +20,7 @@ This project is a mix of Arduino & 3D printing. It uses one servo-motor, a CO2 s
 > *Most of our process is written in french.*
 
 ## Team
-Vincent Paley [@noctoplasma](https://instagram.com/noctoplasma) & Antony Neyret [@antonynyt](https://www.instagram.com/antonynyt/)
+Vincent Paley [@noctoplasma](https://instagram.com/noctoplasma) & Antony Neyret [antony.cool](https://antony.cool/)
 
 # About the workshop — Soft Robotics
 
