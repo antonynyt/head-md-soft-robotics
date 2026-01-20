@@ -80,5 +80,5 @@ Breathing air pollution (alone).
 
 ## 2026-01-15
 
-Préparation de la présentation, mise en place de la scénographie. Réalisation d'une fausse en-tête de journal pour la contextualisation. Aller près des chantier pour récupérer des morceaux de béton et de barres en métal.
+Préparation de la présentation, mise en place de la scénographie. Réalisation d'une fausse en-tête de journal pour la contextualisation. Aller près des chantier pour récupérer des morceaux de béton et de barres en métal. Did [3D scans](./3D-scans/) of the scenography.
 
