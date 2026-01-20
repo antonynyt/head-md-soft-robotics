@@ -22,11 +22,10 @@ Pulmo is inspired by marine organisms reacting to toxic environments and biolumi
 
 # Medias
 
-[Link to medias folder](medias)
+[Link to medias folder](medias) — [Presentation](keynote.pdf)
 
 | ![](medias/pulmo-red.jpg) | ![](medias/pulmo-orange.jpg) |
 | ------------------------- | ---------------------------- |
-
 
 # Team
 Vincent Paley [@noctoplasma](https://instagram.com/noctoplasma) & Antony Neyret [https://antony.cool](https://antony.cool/)
