@@ -6,14 +6,19 @@
 
 Pulmo is part of a fictional group of robots created by the last humans before all living beings on Earth had disappeared. These robots were meant to care for the planet, based on the belief that technology could fix the damage humans had caused. Long after humans are gone, the robots continue their work alone making them useless creatures.
 
+# Process
+
+The project followed an iterative process based on research and experiments. We started with ideas inspired by jellyfish and communication systems, trying to solve many problems at once instead of focusing on one. So, we then shifted to a simpler and more emotional concept. We did field research, took apart old tech, tested light communication and tried different mechanical and 3D-printed prototypes. We learned a lot from mistakes and even got some happy accidents like the 3D TPU printing. This created an **organic, soft, and vulnerable look** for the robot.
+
 # Scenography
 
 | ![](medias/light-sceno.gif) | ![](medias/dark-sceno.gif) |
 | --------------------------- | -------------------------- |
 
+
 # References
 
-Pulmo is inspired by marine organisms reacting to toxic environments and bioluminescent warning systems.
+*Pulmo* is inspired by marine organisms reacting to toxic environments and bioluminescent warning systems.
 
 - **Tobias Bradford – dying mechanical dog**  
 - **marine organisms (sea-slugs, jellyfish) when on land**  
