@@ -6,4 +6,4 @@
 - Basic servo-motor
 
 # Wiring
-![](schematic_bb.svg)[fritzing schematic file](schematic.fzz)
+![](schematic_bb.jpg)[fritzing schematic file](schematic.fzz)
