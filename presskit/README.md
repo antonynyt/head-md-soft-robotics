@@ -1,6 +1,6 @@
 # Pulmo
 
-**Pulmo** is a speculative robot inspired by sea slugs and bioluminescent marine life. It performs slow, breathing-like movements. As air pollution increases, Pulmo’s breathing becomes rapid. Its skin shifts to red as a warning signal. In clean air, its breathing is slow and its body emits a blue-green glow. Pulmo makes air pollution visible and emotionally perceptible.
+**Pulmo** is a speculative robot inspired by sea slugs and bioluminescent marine life. It performs slow, breathing-like movements. As air pollution increases, Pulmo’s breathing becomes rapid. Its skin shifts to red as a warning signal. In clean air, its breathing is slow and its body emits a blue-green glow. Pulmo makes air pollution visible and emotionally perceptible. From within its body also escapes a high-pitched, wheezing, almost scream-like noise. As pollution levels rise, this sound intensifies, giving Pulmo a fragile, anxious personality.
 
 ![](medias/pulmo-1.jpg)
 
@@ -23,8 +23,6 @@ Pulmo is inspired by marine organisms reacting to toxic environments and biolumi
 # Medias
 
 [Link to medias folder](medias)
-
-![](medias/pulmo-video.mp4)
 
 | ![](medias/pulmo-red.jpg) | ![](medias/pulmo-orange.jpg) |
 | ------------------------- | ---------------------------- |
